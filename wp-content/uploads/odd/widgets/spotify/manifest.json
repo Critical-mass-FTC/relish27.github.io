@@ -1,0 +1,26 @@
+{
+    "slug": "spotify",
+    "id": "odd/spotify",
+    "name": "Spotify Embed",
+    "label": "Spotify Embed",
+    "version": "1.0.0",
+    "type": "widget",
+    "author": "Regionally Famous",
+    "description": "Paste a Spotify playlist, album, track, artist, show, or episode URL and Spotify's official player lives on your desktop.",
+    "category": "ODD Originals",
+    "entry": "widget.js",
+    "preview": "",
+    "css": [
+        "widget.css"
+    ],
+    "icon": "dashicons-format-audio",
+    "movable": true,
+    "resizable": true,
+    "minWidth": 300,
+    "minHeight": 245,
+    "maxWidth": 520,
+    "maxHeight": 380,
+    "defaultWidth": 360,
+    "defaultHeight": 292,
+    "capabilities": []
+}

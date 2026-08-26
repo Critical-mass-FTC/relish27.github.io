@@ -1,0 +1,21 @@
+{
+  "type": "app",
+  "$schema": "../../manifest.schema.json",
+  "name": "Swatch",
+  "slug": "swatch",
+  "version": "1.0.2",
+  "author": "Regionally Famous",
+  "description": "Pick colors like you mean it. Full HSL editing, harmony rules, WCAG contrast checks, and one-click export to CSS, Tailwind, or SVG.",
+  "icon": "icon.webp",
+  "entry": "index.html",
+  "menu": {
+    "title": "Swatch",
+    "position": 9,
+    "capability": "manage_options"
+  },
+  "shared": [
+    "react",
+    "react-dom",
+    "react/jsx-runtime"
+  ]
+}

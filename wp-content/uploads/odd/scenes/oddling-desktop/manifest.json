@@ -1,0 +1,24 @@
+{
+    "slug": "oddling-desktop",
+    "name": "Oddling Desktop",
+    "label": "Oddling Desktop",
+    "version": "1.0.0",
+    "type": "scene",
+    "author": "Regionally Famous",
+    "description": "A living CRT terrarium and specimen cabinet. Tiny desktop oddlings drift over glass drawers while curious eyes blink from the edges.",
+    "category": "ODD Defaults",
+    "tags": [
+        "weird",
+        "creatures",
+        "terrarium",
+        "glass",
+        "specimens",
+        "crt",
+        "default"
+    ],
+    "fallbackColor": "#12052a",
+    "heroSafe": true,
+    "entry": "scene.js",
+    "preview": "preview.webp",
+    "wallpaper": "wallpaper.webp"
+}

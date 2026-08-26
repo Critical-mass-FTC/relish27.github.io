@@ -1,0 +1,19 @@
+{
+    "slug": "odd-default-icons",
+    "name": "ODD Default",
+    "label": "ODD Default",
+    "version": "1.0.0",
+    "type": "icon-set",
+    "author": "Regionally Famous",
+    "description": "The default ODD raster icon set for Desktop Mode's visible desktop shortcuts: animated arcade-sticker icons with thick rims, bold silhouettes, and small glow/spark motion.",
+    "category": "ODD Defaults",
+    "accent": "#38e8ff",
+    "preview": "odd.webp",
+    "icons": {
+        "odd": "odd.webp",
+        "my-wordpress": "my-wordpress.webp",
+        "content-graph": "content-graph.webp",
+        "recycle-bin": "recycle-bin.webp",
+        "fallback": "fallback.webp"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "app",
+  "$schema": "../../manifest.schema.json",
+  "name": "Sine",
+  "slug": "sine",
+  "version": "1.0.3",
+  "author": "Regionally Famous",
+  "description": "A full synthesizer living inside your WordPress admin. Four waveforms, ADSR envelope, a resonant filter, and a step sequencer \u2014 all running on pure Web Audio.",
+  "icon": "icon.webp",
+  "entry": "index.html",
+  "menu": {
+    "title": "Sine",
+    "position": 10,
+    "capability": "manage_options"
+  },
+  "shared": []
+}
